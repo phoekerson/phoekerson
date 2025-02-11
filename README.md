@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
 <h3 align="center">A passionate Web App, Mobile App and Blockchain Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoekerson&label=Profile%20views&color=0e75b6&style=flat" alt="phoekerson" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoekerson" alt="phoekerson" /></a> </p>
-
 - 🔭 I’m currently working on [PiedPiper API](https://github.com/phoekerson/piedpiper)
 
 - 🌱 I’m currently learning **Rust, Solidity and Etherjs**
