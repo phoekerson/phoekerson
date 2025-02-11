@@ -12,7 +12,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://mediu
 
-![github-profile](https://github.com/user-attachments/assets/3983dd9f-c3bc-482b-88bd-27f54d3f35e6)
 
 
 
