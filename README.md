@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://mediu
+![Animation - 1739236917361](https://github.com/user-attachments/assets/2a22b158-4f82-4fcd-b4be-f10c27e9da94)
 
 
 
