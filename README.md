@@ -1,4 +1,4 @@
-![github-profile](https://github.com/user-attachments/assets/fa32f4d6-c70e-410d-9925-76cf40c37e99)<h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
+<h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
 <h3 align="center">A passionate Web App, Mobile App and Blockchain Development</h3>
 
 
