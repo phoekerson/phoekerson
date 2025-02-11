@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
 <h3 align="center">A passionate Web App, Mobile App and Blockchain Development</h3>
-![Animation - 1739236917361](https://github.com/user-attachments/assets/517ec277-e1f5-4d2e-9155-6070b0ec3a43)
+![Animation - 1739236917361](https://github.com/user-attachments/assets/651ef793-9116-438f-a4f9-fe81d415d93c)
+
 
 - 🔭 I’m currently working on [PiedPiper API](https://github.com/phoekerson/piedpiper)
 
