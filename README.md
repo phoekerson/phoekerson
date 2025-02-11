@@ -16,7 +16,6 @@
 - 📫 How to reach me **mintoumbacaleb@gmail.com**
 
 - 📄 Know about my experiences [https://caleb-dev.com](https://caleb-dev.com)
-- https://tenor.com/view/code-coding-computer-gif-19684211
 
 - ⚡ Fun fact **I think i'm funny**
 
