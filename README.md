@@ -11,9 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://mediu
 
-https://github.com/user-attachments/assets/17dc4158-2a12-44bf-9eb5-1ba90433a601
 
-m.com/@mintoumbacaleb)
 
 - 💬 Ask me about **Typescript, Nextjs, Vuejs, React, Python, PHP, React Native**
 
