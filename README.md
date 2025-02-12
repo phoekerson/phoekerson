@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
 
-- 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://mediu
+- 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://medium.com/@mintoumbacaleb)
 
 - 📫 How to reach me **mintoumbacaleb@gmail.com**
 
