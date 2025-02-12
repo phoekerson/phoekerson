@@ -1,27 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
 <h3 align="center">A passionate Web App, Mobile App and Blockchain Development</h3>
 
-
-- 🔭 I’m currently working on [PiedPiper API](https://github.com/phoekerson/piedpiper)
-
-- 🌱 I’m currently learning **Rust, Solidity and Etherjs**
-
 - 👯 I’m looking to collaborate on [PiedPiper API](https://github.com/phoekerson/piedpiper)
 
 - 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://mediu
 
-
-
-
-- 💬 Ask me about **Typescript, Nextjs, Vuejs, React, Python, PHP, React Native**
-
 - 📫 How to reach me **mintoumbacaleb@gmail.com**
-
-- 📄 Know about my experiences [https://caleb-dev.com](https://caleb-dev.com)
-
-- ⚡ Fun fact **I think i'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
