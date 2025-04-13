@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Caleb MINTOUMBA</h1>
 <h3 align="center">A passionate Web App, Mobile App and Blockchain Development</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
 - 👯 I’m looking to collaborate on [PiedPiper API](https://github.com/phoekerson/piedpiper)
 
 - 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
