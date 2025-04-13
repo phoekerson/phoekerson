@@ -7,7 +7,6 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 
-- 👯 I’m looking to collaborate on [PiedPiper API](https://github.com/phoekerson/piedpiper)
 
 - 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
 
