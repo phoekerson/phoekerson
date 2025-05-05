@@ -8,7 +8,7 @@
 </picture>
 
 
-- 👨‍💻 All of my projects are available at [https://caleb-dev.com](https://caleb-dev.com)
+- 👨‍💻 All of my projects are available at [https://caleb-dev.vercel.app](https://caleb-dev.vercel.app)
 
 - 📝 I regularly write articles on [https://medium.com/@mintoumbacaleb](https://medium.com/@mintoumbacaleb)
 
